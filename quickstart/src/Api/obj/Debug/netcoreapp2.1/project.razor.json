@@ -2678,6 +2678,6 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "Api",
+  "RootNamespace": null,
   "Documents": []
 }
