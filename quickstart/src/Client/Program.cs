@@ -18,7 +18,7 @@ namespace Client
                 return;
             }
 
-            var tokenResponse = await client.RequestClientGredentialsTokenAsync(new ClientCredentialsTokenRequest
+            var tokenResponse = await client.RequestClientCredentialsTokenAsync(new ClientCredentialsTokenRequest
             {
                 Address = disco.TokenEndpoint,
                 ClientId = "client",
@@ -35,11 +35,12 @@ namespace Client
             Console.WriteLine(tokenResponse.Json);
             Console.WriteLine("\n\n");
 
+            // call api
             var apiClient = new HttpClient();
             apiClient.SetBearerToken(tokenResponse.AccessToken);
 
             var response = await apiClient.GetAsync("http://localhost:5001/identity");
-            if(!response.IsSuccessStatusCode)
+            if (!response.IsSuccessStatusCode)
             {
                 Console.WriteLine(response.StatusCode);
             }

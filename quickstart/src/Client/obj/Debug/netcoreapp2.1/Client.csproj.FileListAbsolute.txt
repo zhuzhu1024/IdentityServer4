@@ -1,0 +1,11 @@
+F:\IdentityServer4\quickstart\src\Client\obj\Debug\netcoreapp2.1\Client.csprojAssemblyReference.cache
+F:\IdentityServer4\quickstart\src\Client\obj\Debug\netcoreapp2.1\Client.csproj.CoreCompileInputs.cache
+F:\IdentityServer4\quickstart\src\Client\obj\Debug\netcoreapp2.1\Client.AssemblyInfoInputs.cache
+F:\IdentityServer4\quickstart\src\Client\obj\Debug\netcoreapp2.1\Client.AssemblyInfo.cs
+F:\IdentityServer4\quickstart\src\Client\bin\Debug\netcoreapp2.1\Client.deps.json
+F:\IdentityServer4\quickstart\src\Client\bin\Debug\netcoreapp2.1\Client.runtimeconfig.json
+F:\IdentityServer4\quickstart\src\Client\bin\Debug\netcoreapp2.1\Client.runtimeconfig.dev.json
+F:\IdentityServer4\quickstart\src\Client\bin\Debug\netcoreapp2.1\Client.dll
+F:\IdentityServer4\quickstart\src\Client\bin\Debug\netcoreapp2.1\Client.pdb
+F:\IdentityServer4\quickstart\src\Client\obj\Debug\netcoreapp2.1\Client.dll
+F:\IdentityServer4\quickstart\src\Client\obj\Debug\netcoreapp2.1\Client.pdb

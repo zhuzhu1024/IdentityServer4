@@ -74,3 +74,10 @@
 2019-05-01 22:30:46.267 +08:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
 2019-05-01 22:30:46.269 +08:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
 2019-05-01 22:30:46.288 +08:00 [DBG] Start discovery request
+2019-05-02 15:03:36.240 +08:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-05-02 15:03:36.401 +08:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-05-02 15:03:36.414 +08:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-05-02 15:03:36.416 +08:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-05-02 15:03:36.419 +08:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-05-02 15:03:36.421 +08:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-05-02 15:03:36.423 +08:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
