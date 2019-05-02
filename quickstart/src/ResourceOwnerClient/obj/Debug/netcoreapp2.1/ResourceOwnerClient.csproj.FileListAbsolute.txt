@@ -1,0 +1,11 @@
+F:\IdentityServer4\quickstart\src\ResourceOwnerClient\bin\Debug\netcoreapp2.1\ResourceOwnerClient.deps.json
+F:\IdentityServer4\quickstart\src\ResourceOwnerClient\bin\Debug\netcoreapp2.1\ResourceOwnerClient.runtimeconfig.json
+F:\IdentityServer4\quickstart\src\ResourceOwnerClient\bin\Debug\netcoreapp2.1\ResourceOwnerClient.runtimeconfig.dev.json
+F:\IdentityServer4\quickstart\src\ResourceOwnerClient\bin\Debug\netcoreapp2.1\ResourceOwnerClient.dll
+F:\IdentityServer4\quickstart\src\ResourceOwnerClient\bin\Debug\netcoreapp2.1\ResourceOwnerClient.pdb
+F:\IdentityServer4\quickstart\src\ResourceOwnerClient\obj\Debug\netcoreapp2.1\ResourceOwnerClient.csprojAssemblyReference.cache
+F:\IdentityServer4\quickstart\src\ResourceOwnerClient\obj\Debug\netcoreapp2.1\ResourceOwnerClient.csproj.CoreCompileInputs.cache
+F:\IdentityServer4\quickstart\src\ResourceOwnerClient\obj\Debug\netcoreapp2.1\ResourceOwnerClient.AssemblyInfoInputs.cache
+F:\IdentityServer4\quickstart\src\ResourceOwnerClient\obj\Debug\netcoreapp2.1\ResourceOwnerClient.AssemblyInfo.cs
+F:\IdentityServer4\quickstart\src\ResourceOwnerClient\obj\Debug\netcoreapp2.1\ResourceOwnerClient.dll
+F:\IdentityServer4\quickstart\src\ResourceOwnerClient\obj\Debug\netcoreapp2.1\ResourceOwnerClient.pdb
